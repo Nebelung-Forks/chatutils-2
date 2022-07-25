@@ -3,7 +3,7 @@ Alternative embeddable front-end for your Discord server
 
 ## Setup
 
-1. Download the (Github repo)[https://github.com/titaniumnetwork-dev/chatutils/archive/master.zip]
+1. Download the (Github repo)[https://github.com/Titanium-Network/chatutils/archive/master.zip]
 
 2. Extract the zip file to a memorable place (eg. your desktop)
 
@@ -25,7 +25,7 @@ Alternative embeddable front-end for your Discord server
 
 11. Once you have located this, press the blue `Copy` button below it
 
-12. Visit the [invite URL generator](https://titaniumnetwork-dev.github.io/chatutils/generateInvite.html) for chatutils then paste from your clipboard your client ID that you had just now copied into the input box that says `BOT client ID` then press `OK`
+12. Visit the [invite URL generator](https://Titanium-Network.github.io/chatutils/generateInvite.html) for chatutils then paste from your clipboard your client ID that you had just now copied into the input box that says `BOT client ID` then press `OK`
 
 13. A new link should have appeared on your screen if all was done correctly, click on this link and choose a server to invite your bot to
 
