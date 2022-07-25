@@ -1,4 +1,4 @@
-console.log('>>>  Know what you\'re doing here? Consider contributing on our github at https://github.com/titaniumnetwork-dev/chatutils');
+console.log('>>>  Know what you\'re doing here? Consider contributing on our github at https://github.com/Titanium-Network/chatutils');
 
 var msgForm=document.getElementById('msgForm'),
 	msgInput=document.getElementById('msgInput'),
