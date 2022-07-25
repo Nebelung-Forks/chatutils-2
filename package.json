@@ -5,10 +5,10 @@
 	"main": "app.js",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/titaniumnetwork-dev/discord-widget.git"
+		"url": "https://github.com/Titanium-Network/discord-widget.git"
 	},
 	"bugs": {
-		"url": "https://github.com/titaniumnetwork-dev/discord-widget/issues"
+		"url": "https://github.com/Titanium-Network/discord-widget/issues"
 	},
 	"keywords": [
 		"discord"
